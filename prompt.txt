@@ -1,0 +1,7 @@
+I want to develop a website app for physio therapy clinic. 
+Features:
+People should able to book the slot.
+Doctor can see the bookings.
+Doctor can add / delete a slot.
+Include pages like contact us, home and about me.
+Include code to generate different app support for android and iphone.
